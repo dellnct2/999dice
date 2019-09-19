@@ -3,7 +3,7 @@ let options = {
   url: 'https://www.999dice.com/api/web.aspx',
   form: {
     a: 'CreateAccount',
-    key: '5ef4b403e90b43c7963555bdeb4029f8'
+    key: ''
   }
 };
 
